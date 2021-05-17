@@ -78,8 +78,16 @@
   color:#000000;
   text-align:left;
 }
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
 .tree_node {
   text-align:left;
+}
+.table_cell {
 }
 .sticky_2 {
   text-align:left;
@@ -90,6 +98,8 @@
 ._表单禁用 {
 }
 .box_1 {
+}
+.box_2 {
 }
 .label {
   font-size:14px;
@@ -109,6 +119,8 @@
   font-size:18px;
   text-align:left;
 }
+.shape {
+}
 .ellipse {
 }
 .icon {
@@ -118,6 +130,8 @@
 .button {
 }
 .line1 {
+}
+.flow_shape {
 }
 .marker {
   color:#FFFFFF;
