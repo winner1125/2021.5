@@ -24798,13 +24798,25 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u737_img {
+#u737_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:227px;
-  height:249px;
+  width:217px;
+  height:239px;
+  background:inherit;
+  background-color:rgba(250, 205, 145, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
 }
 #u737 {
   border-width:0px;
