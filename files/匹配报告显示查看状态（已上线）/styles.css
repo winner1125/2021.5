@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1761_img {
+#u1886_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1547px;
   height:765px;
 }
-#u1761 {
+#u1886 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:765px;
   display:flex;
 }
-#u1761 .text {
+#u1886 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1761_text {
+#u1886_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1762_div {
+#u1887_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -61,7 +61,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u1762 {
+#u1887 {
   border-width:0px;
   position:absolute;
   left:92px;
@@ -70,19 +70,19 @@
   height:150px;
   display:flex;
 }
-#u1762 .text {
+#u1887 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u1762_text {
+#u1887_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1763_img {
+#u1888_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -90,7 +90,7 @@
   width:14px;
   height:14px;
 }
-#u1763 {
+#u1888 {
   border-width:0px;
   position:absolute;
   left:303px;
@@ -102,19 +102,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u1763 .text {
+#u1888 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 4px;
   box-sizing:border-box;
   width:100%;
 }
-#u1763_text {
+#u1888_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1764_div {
+#u1889_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -129,7 +129,7 @@
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:0px 0px 5px rgba(0, 0, 0, 0.349019607843137);
 }
-#u1764 {
+#u1889 {
   border-width:0px;
   position:absolute;
   left:228px;
@@ -138,14 +138,14 @@
   height:56px;
   display:flex;
 }
-#u1764 .text {
+#u1889 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1764_text {
+#u1889_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
